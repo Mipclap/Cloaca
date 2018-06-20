@@ -1,0 +1,48 @@
+[{
+  "product": "milk",
+  "weight": 500,
+  "deliveryDate": "3.06.2018",
+  "expirationDate": "24.06.2018",
+  "country": "Poland",
+  "price": "14.0"
+},
+{
+  "product": "cheese",
+  "weight": 200,
+  "deliveryDate": "2.06.2018",
+  "expirationDate": "30.06.2018",
+  "price": 5.50,
+  "country": "Russia"
+},
+{
+  "product": "kolbasaZaDvaDvadcat",
+  "weight": 9001,
+  "deliveryDate": "5.06.2018",
+  "expirationDate": "5.06.2018",
+  "country": "USSR",
+  "price": 2.20
+},
+{
+  "product": "bread",
+  "weight": 500,
+  "deliveryDate": "1.06.2018",
+  "expirationDate": "20.06.2018",
+  "price": 2.20,
+  "country": "Ukraine"
+},
+{
+  "product": "carrot",
+  "weight": 1000,
+  "deliveryDate": "10.06.2018",
+  "expirationDate": "20.06.2018",
+  "price": 2.20,
+  "country": "Ukraine"
+},
+{
+   "product" : "potato",
+  "weight" : 1000,
+  "deliveryDate":  "5.06.2018",
+  "expirationDate" : "20.06.2018",
+  "price" : 2.20,
+  "country" : "Ukraine"
+}]
